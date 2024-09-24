@@ -21,7 +21,7 @@ The problem involves using the Value Iteration algorithm to find the best strate
 - After convergence, derive the optimal policy (pi) by selecting actions that maximize the Q-values.
 **Results:**
 - The code prints the optimal policy, its state-value function, the success rate of reaching the goal, and the mean undiscounted return of the optimal policy.
-- 
+  
 ## VALUE ITERATION FUNCTION
 ```
 Developed By:P.Siva Naga Nithin
