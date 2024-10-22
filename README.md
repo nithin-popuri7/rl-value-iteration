@@ -58,9 +58,5 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ![image](https://github.com/user-attachments/assets/94b470bc-5a93-4a66-8bb2-e602f3aa2fc2)
 
 ## RESULT:
-Thus to implement and demonstrate value iteration in a simple reinforcement learning problem to find the optimal policy and state-value function is executed successfully.
-![image](https://github.com/user-attachments/assets/f28891cf-26ac-4a31-97d5-f60221752b03)
-
-## RESULT:
 
 Thus, an optimal policy for an agent navigating a grid-world with slippery tiles, aiming to reach a goal state while maximizing expected rewards using value iteration algorithm is successfully implemented.
