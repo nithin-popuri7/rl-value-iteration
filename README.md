@@ -51,10 +51,14 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/70d15615-2bc9-4135-a973-1175ad045513)
+![image](https://github.com/user-attachments/assets/5d54357d-2c59-42aa-8ebf-94029754d015)
 
-![image](https://github.com/user-attachments/assets/08b3e7a5-73d4-46e8-9d2f-53552e83b730)
+![image](https://github.com/user-attachments/assets/c79041e3-52a4-4b57-b352-05fa33d905d8)
 
+![image](https://github.com/user-attachments/assets/94b470bc-5a93-4a66-8bb2-e602f3aa2fc2)
+
+## RESULT:
+Thus to implement and demonstrate value iteration in a simple reinforcement learning problem to find the optimal policy and state-value function is executed successfully.
 ![image](https://github.com/user-attachments/assets/f28891cf-26ac-4a31-97d5-f60221752b03)
 
 ## RESULT:
